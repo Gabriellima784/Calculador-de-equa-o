@@ -1,0 +1,1 @@
+# Calculador-de-equa-o
