@@ -1,1 +1,1 @@
-# Calculador-de-equa-o
+# Impressor de uma soma especifica em tempo real 
